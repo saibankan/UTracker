@@ -32,4 +32,6 @@
 3. Navigate to the project folder:
    ```bash
    cd utracker
+4. When prompted, use the following login credentials: username **admin** and password **admin**.
 
+> **Note:** Tkinter and SQLite3 are included in most standard Python installations. If you encounter errors, make sure these libraries are installed.
